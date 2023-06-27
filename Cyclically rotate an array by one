@@ -1,0 +1,6 @@
+class Solution {
+  public:
+    int getMinDiff(int arr[], int n, int k) {
+        // code here
+    }
+};
